@@ -1,0 +1,10 @@
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File Explorer.csprojAssemblyReference.cache
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+C:\Users\ngoth\Documents\20202-2021(N3)\Project1\File Explorer\File Explorer\obj\Debug\File_Explorer.Form1.resources
